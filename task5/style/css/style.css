@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 30px;
+    padding: 20px;
+    background-color: #8d6363;
+    border: 6px double rgb(79, 207, 165);
+}
+.pro1{
+    display: flex;
+}
