@@ -1,0 +1,18 @@
+
+.artical{
+    height: 30px;
+    width: 90px;
+    margin: 30px;
+    padding: 10px;
+    border: 2px solid #c5d4df;
+    color: aliceblue;
+    background-color: black;
+}
+.bt{
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgba(73, 119, 160, 0.606);
+    color: rgb(1, 1, 1);
+    padding: 10px;
+}
