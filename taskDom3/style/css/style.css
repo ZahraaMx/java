@@ -1,0 +1,12 @@
+
+span{
+    margin-left: 40px;
+    padding: 10px;
+    border:  5px outset maroon;
+    height: 9px;
+    background-color: aliceblue;
+}
+p{
+    padding: 20px;
+    font-size: larger;
+}
